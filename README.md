@@ -116,8 +116,8 @@
 
 <div align="center">
 <blockquote align="center">
-    <em>“Debugging is like being the detective in a crime movie where you are also the murderer.”</em>  
-    <br>– Filipe Fortes
+    <em>“Experience is the name everyone gives to their mistakes.”</em>  
+    <br>– Oscar Wilde
   </blockquote>
 </div>
 
