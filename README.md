@@ -2,7 +2,7 @@
   
   # 👨‍💻 Mohamed Saeed Hussein Fadl
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Backend+Developer;Problem+Solver;Tech+Enthusiast;Let's+build+something+amazing+together...)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Backend+Developer;Competitive+Programmer;Problem+Solver;Let's+build+something+amazing+together...)](https://git.io/typing-svg)
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Saeed-Hussein&show_icons=true&theme=github_dark&border_radius=10&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&cache_seconds=3600" height="165" alt="GitHub Stats" />
@@ -20,13 +20,14 @@
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" width="250">
 
-- 🎓 Computer Science student with a passion for backend development  
-- 🛠️ Skilled in PHP, Laravel, and MySQL; always looking to expand my tech stack  
-- 📚 Advocate for clean code, robust system design, and practical problem solving  
-- 🤝 Actively seeking internship opportunities to further develop my skills  
+- 🎓 Computer Science student passionate about backend development and problem-solving  
+- 🛠️ Skilled in PHP, Laravel, and MySQL; always exploring new technologies  
+- 🏆 Competitive Programming enthusiast, participated in contests like **ECPC**  
+- ♟ Chess lover, enjoys strategic thinking both on and off the board  
+- 🤝 Actively seeking internship opportunities to enhance my skills  
 - 💬 Eager to collaborate, learn from others, and contribute to impactful projects  
 - 📫 Contact: **msaidg54@gmail.com**  
-- ✨ Fun fact: I enjoy tackling programming puzzles in my free time!  
+- ✨ Fun fact: *Solving a tricky bug feels as satisfying as checkmating in chess.*  
 
 ---
 
