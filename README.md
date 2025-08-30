@@ -20,14 +20,15 @@
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" width="250">
 
-- 🎓 Computer Science student passionate about backend development and problem-solving  
-- 🛠️ Skilled in PHP, Laravel, and MySQL; always exploring new technologies  
+- 🎓 **Computer Science student** passionate about backend development and problem-solving  
+- 🛠️ Skilled in **PHP, Laravel, MySQL** always exploring new technologies  
 - 🏆 Competitive Programming enthusiast, participated in contests like **ECPC**  
+- 👨‍🏫 **Instructor at [FCAI Benha ACPC Club](https://www.facebook.com/BFCAI.ACPC)**, mentoring students in algorithms and programming  
 - ♟ Chess lover, enjoys strategic thinking both on and off the board  
-- 🤝 Actively seeking internship opportunities to enhance my skills  
-- 💬 Eager to collaborate, learn from others, and contribute to impactful projects  
+- 🤝 Actively seeking internship opportunities to grow my skills  
+- 💬 Eager to collaborate, learn, and contribute to meaningful projects  
 - 📫 Contact: **msaidg54@gmail.com**  
-- ✨ Fun fact: *Solving a tricky bug feels as satisfying as checkmating in chess.*  
+- ✨ Fun fact: *Solving a tricky bug is as satisfying as checkmating your opponent in chess.*
 
 ---
 
