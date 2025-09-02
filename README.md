@@ -32,6 +32,7 @@
   <a href="https://wa.me/201554747371"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>  
   <a href="https://codeforces.com/profile/MohamedSaeed"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/></a>  
   <a href="https://leetcode.com/u/Oogway_/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>  
+  <a href="https://atcoder.jp/users/Oogway_"><img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=00BFFF"/></a>  
   <a href="https://github.com/Mohamed-Saeed-Hussein"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>  
 </p>  
 
@@ -66,6 +67,7 @@
 <p align="center">
   <a href="https://leetcode.com/u/Oogway_/"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50"/></a>
   <a href="https://codeforces.com/profile/MohamedSaeed"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" alt="codeforces" height="50" width="50"/></a>
+  <a href="https://atcoder.jp/users/Oogway_"><img src="https://img.atcoder.jp/assets/atcoder.png" alt="atcoder" height="50" width="50"/></a>
 </p>
 
 ---
