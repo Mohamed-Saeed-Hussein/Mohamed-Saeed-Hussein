@@ -13,7 +13,7 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me  
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" width="250">  
+<p align="center"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" width="250"></p>  
 
 - 🎓 **Computer Science student** passionate about backend development and problem-solving  
 - 🛠️ Skilled in **PHP, Laravel, MySQL**, with a growing interest in **system architecture & design patterns**  
