@@ -72,31 +72,6 @@
 
 ---
 
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Saeed-Hussein&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&border_radius=10&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Saeed-Hussein&layout=compact&theme=github_dark&bg_color=0D1117&title_color=00FFFF&border_radius=10&hide_border=true" height="165"/>
-</p>  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamed-Saeed-Hussein&theme=github-dark&border_radius=10" height="150"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Saeed-Hussein&theme=onestar&no-frame=true&row=1&column=6"/>
-</p>  
-
----
-
-## 🌀 Contribution Graphs  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>  
-
----
-
 <div align="center">  
 <blockquote align="center">
     <em>“Experience is the name everyone gives to their mistakes.”</em>  
