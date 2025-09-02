@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/mohamed-saeed-5b8420316/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>  
   <a href="mailto:msaidg54@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>  
   <a href="https://wa.me/201554747371"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>  
-  <a href="https://codeforces.com/profile/conqueror_of_turtle"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/></a>  
+  <a href="https://codeforces.com/profile/MohamedSaeed"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/></a>  
   <a href="https://leetcode.com/u/Oogway_/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>  
   <a href="https://github.com/Mohamed-Saeed-Hussein"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>  
 </p>  
@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Oogway_/"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50"/></a>
-  <a href="https://codeforces.com/profile/conqueror_of_turtle"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" alt="codeforces" height="50" width="50"/></a>
+  <a href="https://codeforces.com/profile/MohamedSaeed"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" alt="codeforces" height="50" width="50"/></a>
 </p>
 
 ---
