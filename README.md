@@ -95,10 +95,6 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>  
 
-<p align="center">
-  <img src="https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg" height="300"/>
-</p>  
-
 ---
 
 <div align="center">  
