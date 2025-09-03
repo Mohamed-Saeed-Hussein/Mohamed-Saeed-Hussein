@@ -30,9 +30,6 @@
   <a href="https://www.linkedin.com/in/mohamed-saeed-5b8420316/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>  
   <a href="mailto:msaidg54@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>  
   <a href="https://wa.me/201554747371"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366"/></a>  
-  <a href="https://codeforces.com/profile/MohamedSaeed"><img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"/></a>  
-  <a href="https://leetcode.com/u/Oogway_/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>  
-  <a href="https://atcoder.jp/users/Oogway_"><img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=00BFFF"/></a>  
   <a href="https://github.com/Mohamed-Saeed-Hussein"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>  
 </p>  
 
