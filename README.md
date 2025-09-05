@@ -20,7 +20,6 @@
 - ♟ Chess lover — strategy inspires my coding approach  
 - 🤝 Actively seeking **internship opportunities**  
 - 📫 Reach me: **msaidg54@gmail.com** | **WhatsApp: +20 155 474 7371**  
-- ✨ Fun fact: *Solving a tricky bug feels like checkmating your opponent in chess.*  
 
 ---
 
