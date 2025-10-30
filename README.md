@@ -71,15 +71,10 @@
 
 ---
 
-<div align="center">  
-<blockquote align="center">
-    <em>“Experience is the name everyone gives to their mistakes.”</em>  
-    <br>– Oscar Wilde  
-</blockquote>  
-</div>  
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&fontSize=0" width="100%"/>
+
+*"Experience is the name everyone gives to their mistakes."* — Oscar Wilde
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&fontSize=0" width="100%"/>
+
 </div>
