@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Competitive+Programmer;Problem+Solver;Always+Learning+New+Things&font=Fira+Code&center=true&color=00FFFF&pause=2000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Competitive+Programmer;Problem+Solver;Always+Learning+New+Things&font=Fira+Code&center=true&color=a463e2&pause=2000">
 </p>
 
 
@@ -12,7 +12,7 @@
 <div align="center">
     <h2>
         <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=About+Me&font=Fira+Code&center=true&color=00FFFF&pause=3000&width=150&height=30&vCenter=true">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=About+Me&font=Fira+Code&center=true&color=a463e2&pause=3000&width=150&height=30&vCenter=true">
     </h2>
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
     <h2>
-        🤝 <img src="https://readme-typing-svg.herokuapp.com/?lines=Connect+With+Me&font=Fira+Code&center=true&color=00FFFF&pause=3000&width=250&height=30&vCenter=true">
+        🤝 <img src="https://readme-typing-svg.herokuapp.com/?lines=Connect+With+Me&font=Fira+Code&center=true&color=a463e2&pause=3000&width=250&height=30&vCenter=true">
     </h2>
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
     <h2>
-        🛠️ <img src="https://readme-typing-svg.herokuapp.com/?lines=Languages+%26+Tools&font=Fira+Code&center=true&color=00FFFF&pause=3000&width=280&height=30&vCenter=true">
+        🛠️ <img src="https://readme-typing-svg.herokuapp.com/?lines=Languages+%26+Tools&font=Fira+Code&center=true&color=a463e2&pause=3000&width=280&height=30&vCenter=true">
     </h2>
 </div>
 <div align="center">
@@ -74,7 +74,7 @@
 
 <div align="center">
     <h2>
-        🧩 <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solving&font=Fira+Code&center=true&color=00FFFF&pause=3000&width=240&height=30&vCenter=true">
+        🧩 <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solving&font=Fira+Code&center=true&color=a463e2&pause=3000&width=240&height=30&vCenter=true">
     </h2>
 </div>
 <p align="center">
