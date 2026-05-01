@@ -73,19 +73,6 @@
 ---
 
 <div align="center">
-    <h2>
-        🧩 <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solving&font=Fira+Code&center=true&color=a463e2&pause=3000&width=240&height=30&vCenter=true">
-    </h2>
-</div>
-<p align="center">
-  <a href="https://leetcode.com/u/Oogway_/"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/ccea8959-b23e-4619-893d-18f85870b45e" alt="leetcode" height="50" width="50"/></a>
-  <a href="https://codeforces.com/profile/MohamedSaeed"><img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" alt="codeforces" height="50" width="50"/></a>
-  <a href="https://atcoder.jp/users/Oogway_"><img src="https://img.atcoder.jp/assets/atcoder.png" alt="atcoder" height="50" width="50"/></a>
-</p>
-
----
-
-<div align="center">
 
 *"Experience is the name everyone gives to their mistakes."* — Oscar Wilde
 
