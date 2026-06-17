@@ -1,9 +1,9 @@
-Hi, I'm Mohamed Saeed. 👋
+Hi, I'm Mohamed Saeed.
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Backend+Developer+(PHP);Codeforces+Specialist;Problem+Setter;Programming+Coach" alt="Typing SVG" /></a>
 
 * I have a computer.
-* Bachelor of Computer Science and Artificial Intelligence student @Benha-University.
+* Bachelor of Computer Science and Artificial Intelligence student [@Benha-University](https://bu.edu.eg/).
 * Backend Developer (ITI PHP Track Graduate).
 * Linux Essentials certified.
 * Competitive Programming Hobbyist
