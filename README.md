@@ -23,7 +23,7 @@ Tech stack:
 * **Backend:** PHP/Laravel, Java, Python, C/C++.
 * **Frontend:** HTML/CSS, JavaScript, Bootstrap, Tailwind CSS.
 * **Databases:** MySQL, Oracle.
-* **Tools:** Git, Docker, Linux.
+* **Tools:** Git, Linux.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Saeed-Hussein&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
