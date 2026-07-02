@@ -25,10 +25,6 @@ Tech stack:
 * **Databases:** MySQL, Oracle.
 * **Tools:** Git, Linux.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Saeed-Hussein&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</div>
-
 Currently open to work opportunities.
 
 Reach me through [Email](mailto:msiadg54@gmail.com), [WhatsApp](https://wa.me/201554747371) or [LinkedIn](https://www.linkedin.com/in/mohamed-saeed-5b8420316/)
